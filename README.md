@@ -1,3 +1,3 @@
 # Real Estate Application in React.
 
-![GitHub Logo](https://codewithdeepak.in/img/real)
+![Alt Img](https://codewithdeepak.in/img/real)
