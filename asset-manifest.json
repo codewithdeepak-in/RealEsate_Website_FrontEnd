@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RealEsate_Website_FrontEnd/static/css/main.ca75bd52.css",
-    "main.js": "/RealEsate_Website_FrontEnd/static/js/main.69526b5a.js",
+    "main.js": "/RealEsate_Website_FrontEnd/static/js/main.2534381e.js",
     "static/media/hero.png": "/RealEsate_Website_FrontEnd/static/media/hero.120f768a438547534548.png",
     "static/media/equinix.png": "/RealEsate_Website_FrontEnd/static/media/equinix.236399b3ed670db792cf.png",
     "static/media/tower.png": "/RealEsate_Website_FrontEnd/static/media/tower.cc77e18f59771c7ad75b.png",
@@ -9,10 +9,10 @@
     "static/media/realty.png": "/RealEsate_Website_FrontEnd/static/media/realty.11971af17bb2cc252199.png",
     "index.html": "/RealEsate_Website_FrontEnd/index.html",
     "main.ca75bd52.css.map": "/RealEsate_Website_FrontEnd/static/css/main.ca75bd52.css.map",
-    "main.69526b5a.js.map": "/RealEsate_Website_FrontEnd/static/js/main.69526b5a.js.map"
+    "main.2534381e.js.map": "/RealEsate_Website_FrontEnd/static/js/main.2534381e.js.map"
   },
   "entrypoints": [
     "static/css/main.ca75bd52.css",
-    "static/js/main.69526b5a.js"
+    "static/js/main.2534381e.js"
   ]
 }
